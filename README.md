@@ -45,7 +45,7 @@ To run this project, you will need to add the following environment variables to
 - [Create Snapchat filter](https://github.com/spmallick/learnopencv/tree/master/Create-AR-filters-using-Mediapipe)
 ## Feedback  
 
-If you have any feedback, please reach out to us at thanhluffy5D@gmail.com
+If you have any feedback, please reach out to us at thanhnd9904@gmail.com
 
 ## License  
 
